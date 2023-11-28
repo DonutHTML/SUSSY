@@ -1,0 +1,14 @@
+{
+    "name": "Donut Orama",
+    "description": "A plugin about donuts frfr",
+    "authors": [
+        {
+            "name": "DonutKingMC",
+            "id": "1092019780652896357"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
